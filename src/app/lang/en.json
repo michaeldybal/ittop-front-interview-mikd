@@ -1,0 +1,14 @@
+{
+  "PAGE_NOTFOUNT_VALUE": "Not Found Page",
+  "PAGE_NOTFOUNT_TITLE": "Please, check URL",
+  "PAGE_ROOMS_VALUE": "Rooms",
+  "PAGE_ROOMS_TITLE": "Go to rooms page",
+  "PAGE_HOME_VALUE": "Home",
+  "PAGE_HOME_TITLE": "Go to home page",
+
+  "HEADER_CAPTION": "ITTop. Front-interview app",
+  "AUTHOR": "Author",
+  "AUTHOR_NAME": "Mikhail Dybal",
+  "CV_LINK_LABEL": "Link to CV", 
+  "FAVORITE_TECH_LABEL": "Favorite technology"
+}
